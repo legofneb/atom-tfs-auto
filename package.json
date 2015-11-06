@@ -1,7 +1,7 @@
 {
   "name": "atom-tfs-auto",
   "main": "./lib/atom-tfs-auto",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Auto checkout tfs locked files",
   "keywords": ["tfs", "auto"
   ],
