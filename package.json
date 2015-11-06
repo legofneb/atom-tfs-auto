@@ -1,9 +1,11 @@
 {
   "name": "atom-tfs-auto",
   "main": "./lib/atom-tfs-auto",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Auto checkout tfs locked files",
-  "keywords": ["tfs", "auto"
+  "keywords": [
+    "tfs",
+    "auto"
   ],
   "repository": "https://github.com/legofneb/atom-tfs-auto",
   "license": "MIT",
